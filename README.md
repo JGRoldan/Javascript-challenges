@@ -1,1 +1,1 @@
-# Javascript-projects
+# :rocket: Javascript projects
