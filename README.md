@@ -2,4 +2,4 @@
 
 | #  | Projects |
 | ------------- | ------------- |
-| 1  | Todo List - Local Storage  |
+| 01  | Todo List - Local Storage  |
